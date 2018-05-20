@@ -119,3 +119,6 @@ section#content6 {
     font-weight: 500;
     margin-top:50px;
     text-align: center } 
+body#calculator {
+    background-color: #99ccff;
+}
